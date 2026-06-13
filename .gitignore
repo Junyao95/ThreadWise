@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables (secrets)
+.env
+
+# Deployment zip
+threadwise-agent.zip
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Logs
+*.log

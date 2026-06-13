@@ -1,0 +1,25 @@
+# Microsoft Graph & Azure Authentication
+msal>=1.28.0
+requests>=2.31.0
+
+# Azure OpenAI
+openai>=1.30.0
+
+# PDF decryption
+pypdf>=4.0.0
+
+# MS Office decryption
+msoffcrypto-tool>=5.4.0
+
+# Azure Key Vault (optional)
+azure-identity>=1.15.0
+azure-keyvault-secrets>=4.7.0
+
+# Web framework & helpers
+Flask>=3.0.0
+python-dotenv>=1.0.0
+
+# Document parsing
+pandas>=2.0.0
+
+gunicorn>=20.1.0
